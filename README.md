@@ -15,10 +15,11 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12QtpC8kL8AYnLVWdzFwYnCuyneLZ5q4x/view?usp=sharing](https://drive.google.com/file/d/12QtpC8kL8AYnLVWdzFwYnCuyneLZ5q4x/view?usp=sharing)
 
+- 📄 My film CV [https://youtu.be/MqkcRgF68r0?si=F7q6Ci643fSgOK83](https://youtu.be/MqkcRgF68r0?si=F7q6Ci643fSgOK83)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/igor-burykin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor-burykin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCRL3M70_qVU_8-PCoGM-crg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucrl3m70_qvu_8-pcogm-crg" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iburykin071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iburykin071" height="30" width="40" /></a>
 </p>
 
