@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizz071&label=Profile%20views&color=0e75b6&style=flat" alt="rizz071" /> </p>
 
-- 🔭 I’m currently working on [Patientor](https://github.com/Rizz071/Patientor), [JobStack](https://github.com/Rizz071/JobStack)
+- 🔭 I’m currently working on [JobStack](https://github.com/Rizz071/JobStack), [Patientor](https://github.com/Rizz071/Patientor)
 
 - 🌱 I’m currently learning **TypeScript, React, Express, PostgreSQL, MongoDB, REST API**
 
