@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **iburykin071@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12QtpC8kL8AYnLVWdzFwYnCuyneLZ5q4x/view?usp=sharing](https://drive.google.com/file/d/12QtpC8kL8AYnLVWdzFwYnCuyneLZ5q4x/view?usp=sharing)
-
 - 📄 My film CV [https://youtu.be/MqkcRgF68r0?si=F7q6Ci643fSgOK83](https://youtu.be/MqkcRgF68r0?si=F7q6Ci643fSgOK83)
 
 <h3 align="left">Connect with me:</h3>
