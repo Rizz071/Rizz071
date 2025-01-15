@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizz071&label=Profile%20views&color=0e75b6&style=flat" alt="rizz071" /> </p>
 
-- 🔭 I’m currently working on [JobStack](https://github.com/Rizz071/JobStack)
+- 🔭 I’m currently working on [tula-okna](https://github.com/Rizz071/tula-okna)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rizz071](https://github.com/Rizz071)
 
-- 💬 Ask me about **React, Express, Meteor**
+- 💬 Ask me about **JS/TS, Next.js, React, Express, Meteor**
 
 - 📫 How to reach me **iburykin071@gmail.com**
 
