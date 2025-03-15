@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
-<h3 align="center">A passionate fullstack web developer</h3>
+<h3 align="center">An IoT and web fullstack software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizz071&label=Profile%20views&color=0e75b6&style=flat" alt="rizz071" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rizz071](https://github.com/Rizz071)
 
-- 💬 Ask me about **JS/TS, Next.js, React, Express, Meteor**
+- 💬 Ask me about **IoT (AVR, STM32 mcu's), JS/TS, Next.js, React, Meteor**
 
 - 📫 How to reach me **iburykin071@gmail.com**
 
