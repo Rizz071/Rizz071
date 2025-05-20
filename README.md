@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rizz071](https://github.com/Rizz071)
 
-- 💬 Ask me about **IoT (AVR, STM32 mcu's), JS/TS, Next.js, React, Meteor**
+- 💬 Ask me about **IoT (STM32, AVR, ESP mcu's), JS/TS, Next.js, React, Meteor**
 
 - 📫 How to reach me **iburykin071@gmail.com**
 
