@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizz071&label=Profile%20views&color=0e75b6&style=flat" alt="rizz071" /> </p>
 
-- 🔭 I’m currently working on [SmokeAlert](https://github.com/Rizz071/SmokeAlert), [tula-okna](https://github.com/Rizz071/tula-okna)
+- 🔭 I’m currently working on [GearTest](https://github.com/Rizz071/GearTest), [SmokeAlert](https://github.com/Rizz071/SmokeAlert), [tula-okna](https://github.com/Rizz071/tula-okna)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rizz071](https://github.com/Rizz071)
 
-- 💬 Ask me about **IoT (STM32, AVR, ESP mcu's), JS/TS, Next.js, React, Meteor**
+- 💬 Ask me about **IoT (STM32, AVR, ESP mcu's), Embedded C/C++, JS/TS, Next.js, React, Meteor**
 
 - 📫 How to reach me **iburykin071@gmail.com**
 
