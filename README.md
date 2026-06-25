@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizz071&label=Profile%20views&color=0e75b6&style=flat" alt="rizz071" /> </p>
 
-- 🔭 I’m currently working on [GearTest](https://github.com/Rizz071/GearTest), [SmokeAlert](https://github.com/Rizz071/SmokeAlert), [tula-okna](https://github.com/Rizz071/tula-okna)
+- 🔭 I’m currently working on [WaterSentry](https://github.com/Rizz071/water-sentry), [GearTest](https://github.com/Rizz071/GearTest), [SmokeAlert](https://github.com/Rizz071/SmokeAlert), [tula-okna](https://github.com/Rizz071/tula-okna)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rizz071](https://github.com/Rizz071)
 
